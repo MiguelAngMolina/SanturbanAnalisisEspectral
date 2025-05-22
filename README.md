@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo analizar el impacto ambiental causado por un incendio ocurrido el **23 de enero**, utilizando imágenes satelitales antes y después de la fecha, junto con índices de vegetación.
 
-![ParcheMuestra](imgs\parchegeneral.png)
+![ParcheMuestra](imgs/parchegeneral.png)
 
 
 ---
@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo analizar el impacto ambiental causado por un i
 
 Evaluar la **afectación del terreno** mediante análisis multitemporal de imágenes Sentinel-2, usando índices de vegetación clave como NDVI, NBR, BAI y sus respectivas diferencias temporales (**delta NDVI / delta NBR**).
 
-![ParcheMuestra](imgs\parcheyndvi.png)
+![ParcheMuestra](imgs/parcheyndvi.png)
 
 ---
 
@@ -42,7 +42,9 @@ Evaluar la **afectación del terreno** mediante análisis multitemporal de imág
 
 - **NDVI** (Índice de Vegetación de Diferencia Normalizada)  
   Evalúa la salud de la vegetación; disminuye en áreas quemadas.
-  ![Descripción](images/ndvi_form.png)
+  
+  ![Descripción](imgs/ndvi_form.png)
+
 
 - **NBR** (Índice de Quemado Normalizado)  
   Ideal para identificar áreas afectadas por incendios y su severidad.
