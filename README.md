@@ -101,7 +101,7 @@ Nos enfocaremos unicamente en el NDVI para este estudio.
 ## 🛠️ Repositorio de Scripts
 
 > 📌 Asegúrate de tener los siguientes scripts organizados en tu proyecto:
-
+```
 project/
 ├── IMG_DATA/
 │ ├── ... (archivos Sentinel)
@@ -109,6 +109,7 @@ project/
 ├── cut.py
 ├── NDVI.py
 
+```
 
 ---
 
