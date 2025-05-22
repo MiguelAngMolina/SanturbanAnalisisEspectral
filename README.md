@@ -67,7 +67,7 @@ Nos enfocaremos unicamente en el NDVI para este estudio.
    👉 [Ir al portal](https://browser.dataspace.copernicus.eu/?zoom=14&lat=7.12044&lng=-72.96922&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19wiGNdWzKSFC0HOrt3jPXVotu0dx0iHKQlhudZ6PANwZk4E83LeOS3TmFuWCn9Hhu1adYxwskiLb6ZmwFIS9falAyJJ11ijpWyfsqxDabgoyG3xKf70VIm&datasetId=S2_L2A_CDAS&fromTime=2024-01-23T00%3A00%3A00.000Z&toTime=2024-01-23T23%3A59%3A59.999Z)
 
 
-     ![Copernicus](images/SanturbanCoperni.png)
+     ![Copernicus](imgs/SanturbanCoperni.png)
 
 2. **Descomprimir `.zip`** y ubicar carpeta `IMG_DATA`.
 
